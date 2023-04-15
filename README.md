@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Group Class Ideas Site](https://github.com/msilis/shiny-octo-waddle)
 
-- 👨‍💻 Most of my projects are available at [https://cheerful-narwhal-58c355.netlify.app/](https://cheerful-narwhal-58c355.netlify.app/)
+- 👨‍💻 Most of my projects are available at [https://bit.ly/mikssilis](https://bit.ly/mikssilis)
 
 - 📫 How to reach me **mikssilis@gmail.com**
 
