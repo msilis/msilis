@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I was trained as a violist and spent many years playing in orchestras.**
 
+- 👨‍💻 I was working as a frontend developer at an audio startup and now am looking for my next role.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miks-silis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miks-silis" height="30" width="40" /></a>
