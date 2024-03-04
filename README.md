@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miks</h1>
-<h3 align="center">A passionate frontend developer living in London</h3>
+<h3 align="center">A frontend developer living in London</h3>
 
 - 🔭 I’m currently working on refactoring some old projects and doing freelance work while on the job search. 
 
